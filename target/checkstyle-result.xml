@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/home/vladyslav/IdeaProjects/internet-shop/src/main/java/org/example/internetshop/lib/Inject.java">
+</file>
+<file name="/home/vladyslav/IdeaProjects/internet-shop/src/main/java/org/example/internetshop/lib/Service.java">
+</file>
+<file name="/home/vladyslav/IdeaProjects/internet-shop/src/main/java/org/example/internetshop/lib/Dao.java">
+</file>
+<file name="/home/vladyslav/IdeaProjects/internet-shop/src/main/java/org/example/internetshop/lib/Injector.java">
+</file>
+<file name="/home/vladyslav/IdeaProjects/internet-shop/src/main/java/org/example/internetshop/model/Item.java">
+</file>
+<file name="/home/vladyslav/IdeaProjects/internet-shop/src/main/java/org/example/internetshop/model/Order.java">
+</file>
+<file name="/home/vladyslav/IdeaProjects/internet-shop/src/main/java/org/example/internetshop/model/Bucket.java">
+</file>
+<file name="/home/vladyslav/IdeaProjects/internet-shop/src/main/java/org/example/internetshop/model/User.java">
+</file>
+<file name="/home/vladyslav/IdeaProjects/internet-shop/src/main/java/org/example/internetshop/Application.java">
+</file>
+<file name="/home/vladyslav/IdeaProjects/internet-shop/src/main/java/org/example/internetshop/dao/Storage.java">
+</file>
+<file name="/home/vladyslav/IdeaProjects/internet-shop/src/main/java/org/example/internetshop/dao/BucketDao.java">
+</file>
+<file name="/home/vladyslav/IdeaProjects/internet-shop/src/main/java/org/example/internetshop/dao/impl/BucketDaoImpl.java">
+</file>
+<file name="/home/vladyslav/IdeaProjects/internet-shop/src/main/java/org/example/internetshop/dao/impl/ItemDaoImpl.java">
+</file>
+<file name="/home/vladyslav/IdeaProjects/internet-shop/src/main/java/org/example/internetshop/dao/ItemDao.java">
+</file>
+<file name="/home/vladyslav/IdeaProjects/internet-shop/src/main/java/org/example/internetshop/service/ItemService.java">
+</file>
+<file name="/home/vladyslav/IdeaProjects/internet-shop/src/main/java/org/example/internetshop/service/impl/ItemServiceImpl.java">
+</file>
+<file name="/home/vladyslav/IdeaProjects/internet-shop/src/main/java/org/example/internetshop/service/impl/BucketServiceImpl.java">
+</file>
+<file name="/home/vladyslav/IdeaProjects/internet-shop/src/main/java/org/example/internetshop/service/BucketService.java">
+</file>
+</checkstyle>
